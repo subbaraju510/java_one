@@ -1,0 +1,17 @@
+username=//*[@id='username']
+password=//*[@id='pass']
+LoginButton=//*[@id='loginForm']/md-content/div/button
+session_xpath=html/body/md-toolbar[2]/div/h5
+workingdays_screen6553=html/body/div[2]/section/section/section/div[1]/md-toolbar/div/h2
+AddButton6553=html/body/div[2]/section/section/section/div[1]/md-content/md-tabs/md-tabs-content-wrapper/md-tab-content[1]/div/div/div[4]/h4
+select_workingdays6553=.//*[@id='tab-content-2']/div/div/div[3]/div[1]/ul/li[1]/md-checkbox/div[1]
+select_nonworkingdays6553=.//*[@id='tab-content-2']/div/div/div[3]/div[2]/ul/li[1]/md-checkbox/div[1]
+save_button6553=.//*[@id='tab-content-2']/div/div/div[3]/div[3]/button[2]
+CancelButton6553=.//*[@id='tab-content-2']/div/div/div[3]/div[3]/button[1]
+Success_message6553=//*[@id='page-wrapper']/section/section/md-toast/div/span
+
+xpath1=html/body/div[2]/section/section/section/div[1]/md-content/md-tabs/md-tabs-content-wrapper/md-tab-content[1]/div/div/div[
+xpath2=]/md-toolbar/div[2]/button[1]
+xpath3=html/body/div[2]/section/section/section/div[1]/md-content/md-tabs/md-tabs-content-wrapper/md-tab-content[1]/div/div/div[
+xpath4=]/div[2]/form/md-input-container/input
+group_name6553/div
